@@ -25,7 +25,7 @@ def connect():
         host="localhost",
         database="postgres",
         user="postgres",
-        password="8520"
+        password="5432"
     )
 
 def get_user_id(username):
