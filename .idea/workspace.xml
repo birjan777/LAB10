@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de805bc2-9877-4433-8486-bdaa919c41c6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Phonebook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snakebook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/b.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../PythonProject5/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonProject5/3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PythonProject5/bb.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonProject5/bb.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PythonProject5/аа.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonProject5/аа.py" afterDir="false" />
@@ -52,6 +56,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.1.executor": "Run",
+    "Python.Phonebook.executor": "Run",
+    "Python.Snakebook.executor": "Run",
+    "Python.b.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "git-widget-placeholder": "main",
